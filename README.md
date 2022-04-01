@@ -12,5 +12,5 @@ This application features :
 - Input from the user is taken from the prompt value that is programmed to include only the rock paper or scissors string.
 - You play against the computer that generates a choice randomly between rock paper or scissors.
 - Each round an output informs you if you won, lost and if it's a tie by displaying you and the computer picks
-- Afer the end of all 5 rounds final score is declared 
+- After the end of all 5 rounds final score is declared 
 
